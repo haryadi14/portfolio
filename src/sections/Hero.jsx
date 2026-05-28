@@ -18,11 +18,11 @@ const Hero = () => {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <p className="text-primary font-black uppercase tracking-[0.5em] mb-6 text-[10px]">
+              <p className="text-primary font-black uppercase tracking-[0.5em] mb-6 text-[8px]">
                 Based in Indonesia • Remote Ready
               </p>
               
-              <h1 className="text-5xl md:text-8xl font-black text-white leading-[0.9] tracking-tighter mb-10 uppercase italic">
+              <h1 className="text-5xl md:text-8xl font-black text-white leading-[0.9] tracking-tighter mb-8 uppercase italic">
                 BRIDGING <br />
                 <span className="text-slate-800">CODE AND</span> <br />
                 INFRASTRUCTURE.
