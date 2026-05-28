@@ -18,13 +18,17 @@ const Navbar = () => {
         <a href="#" className="text-xl font-black text-white tracking-tighter italic">
           {personalInfo.name.toUpperCase()}.
         </a>
-        <div className="hidden md:flex gap-10">
-          {['About','jokas','Experience', 'Projects', 'Certificates','Contact'].map((item) => (
-            <a key={item} href={`#${item.toLowerCase()}`} className="text-xs font-bold uppercase tracking-widest text-slate-400 hover:text-primary transition-colors">
-              {item}
-            </a>
-          ))}
-        </div>
+        <div className="hidden md:flex gap-6 xl:gap-10"> {/* Gap dikecilkan sedikit */}
+  {['About', 'Jokas', 'Experience', 'Projects', 'Certificates', 'Contact'].map((item) => (
+    <a 
+      key={item} 
+      href={`#${item.toLowerCase()}`} 
+      className="text-[9px] xl:text-[10px] font-black uppercase tracking-widest text-slate-400 hover:text-primary transition-colors"
+    >
+      {item}
+    </a>
+  ))}
+</div>
       </div>
     </nav>
   );
