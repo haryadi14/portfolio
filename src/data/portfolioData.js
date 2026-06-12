@@ -94,6 +94,23 @@ export const projects = [
     image: "https://ik.imagekit.io/ciev6dpgs/portfolio/1.png",
     link: " https://katalog.bukupedia.co.id/2023/02/mouse-control-berbasis-eye-tracking.html"
   },
+  {
+    id: 10,
+    title: " UI/UX Piksi Ganesha",
+    desc: " rancangan sistem atau website rumah sakit ",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/ui_uxpiksi.png",
+    link: " https://www.figma.com/make/k1ajel2qyMuqYPYA5OdYii/PIKSI-Ganesha-Hospital?fullscreen=1&t=b6aoYqJwUjj0omd3-1&code-node-id=1-5"
+  },
+  {
+    id: 11,
+    title: " UI/UX Adi TopUP",
+    desc: " Prototype TOPUP",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/ui_uxtopup.png",
+    link: " https://www.figma.com/proto/850jHCsUdclQzIwLr3fghh/Adi-top-Up?node-id=106-151&starting-point-node-id=8%3A2&t=OdQBFVSF64Qpwwbj-1"
+  },
+
 
 
 ];
