@@ -147,7 +147,7 @@ export const projects = [
   {
     id: 16,
     title: " UI/UX StreetWear Studio",
-    desc: " Prototype TOPUP",
+    desc: " Design UI/UX StreetWear Or Clothing Berbasis WEB",
     tags: ["Figma"],
     image: "https://ik.imagekit.io/ciev6dpgs/portfolio/Streetwear.png",
     link: " https://www.figma.com/proto/GuedewyfXDWzOosLqtCjlR/Streetwear?node-id=1-2&t=eNbrqjw4F5l5hSQX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
