@@ -112,6 +112,56 @@ export const projects = [
   },
 
 
+  {
+    id: 12,
+    title: " UI/UX Web Rute GO",
+    desc: " Design UI/UX Shuttle Berbasis WEB",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/UIRutego.png",
+    link: " https://www.figma.com/proto/Mj2ngK3BMjD5QVGvvSaMZA/Rute-Go?node-id=0-1&t=JQ91ZCgWkIo64HQ2-1"
+  },
+  {
+    id: 13,
+    title: " UI/UX Jokas",
+    desc: " Design UI/UX Jokas WEB",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/uijokas.png",
+    link: " https://www.figma.com/proto/L8IQs9mxgsINZcuASEI1O1/Jokas?node-id=1-2&p=f&t=xTtWoLdj7f7lQmcD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    id: 14,
+    title: " UI/UX KaryaHR",
+    desc: " Design UI/UX HRIS Berbasis Mobile",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/UIHRS.png",
+    link: " https://www.figma.com/proto/H0kG5jWboxnyJb100hA6Tb/KaryaHR-Mobile-HRIS-Design?node-id=1-241&t=NFJtfjaQYqRiZJet-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    id: 15,
+    title: " UI/UX Jelajah Nusantara WEB",
+    desc: " Design UI/UX Traveller Berbasis Web",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/JelajahWeb.png",
+    link: " https://www.figma.com/proto/kB2B3Ef2ucMmNHnOzGdh7C/Jelajah-Nusantara-Web?node-id=2107-2&p=f&t=HKi7CzQttOq8OFyd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    id: 16,
+    title: " UI/UX StreetWear Studio",
+    desc: " Prototype TOPUP",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/Streetwear.png",
+    link: " https://www.figma.com/proto/GuedewyfXDWzOosLqtCjlR/Streetwear?node-id=1-2&t=eNbrqjw4F5l5hSQX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    id: 17,
+    title: " UI/UX Jelajah Nusantara Mobile",
+    desc: " Design UI/UX Traveller Berbasis Mobile",
+    tags: ["Figma"],
+    image: "https://ik.imagekit.io/ciev6dpgs/portfolio/JelejahMob.png",
+    link: " https://www.figma.com/proto/lQPtC4rCboYwBw6jG2SDhX/Jelakah-Nusantara-Mobile?node-id=0-1&t=nIT9VJq2h3t46kqN-1"
+  },
+
+
 
 ];
 export const aboutMe = {
